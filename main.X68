@@ -120,11 +120,3 @@ ISR7        ORI.W   #$0700,SR          ;set priority level to 7
             RTE                        ;use RTE to return from interrupt
 
     		END    START
-
-
-
-
-*~Font name~Courier New~
-*~Font size~10~
-*~Tab type~1~
-*~Tab size~4~
